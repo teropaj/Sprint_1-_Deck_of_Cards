@@ -1,0 +1,53 @@
+#myDIV {
+
+    position: fixed;
+    bottom: 50%;
+
+
+    height: 60%;
+    width: 20%;
+    border-style: solid;
+    border-width: 1px;
+}
+body {
+    background-color: lightblue;
+    z-index -1;
+    text-align: center;
+}
+
+
+     }
+.gallery {
+        position: relative;
+        background-color: green;
+            left: 20%
+            border: 1px solid #ccc;
+
+            width: 40%;
+        }
+.gallery2 {
+            display: grid;
+grid: 15% / auto auto auto auto;
+
+background-color: #2196F3;
+padding: 10px;
+
+
+
+
+                left: 20%;
+                position: relative;
+                background-color: yellow;
+                border: 1px;
+                    border: 1px solid #ccc;
+
+                    width: 40%;
+                    height: 40%;
+                }
+#deck {position: relative;
+    }
+#deck2 {position: relative;
+    }
+.playersCards{width:100%;background-color: red;}
+
+#empty {width:100%;background-color: green;}
